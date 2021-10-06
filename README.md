@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @cristian1920
-- 👀 I’m interested in software developer
-- 🌱 I’m currently learning web development
 - 📫 How to reach me cristian131411@gmail.com
 
 <!---
